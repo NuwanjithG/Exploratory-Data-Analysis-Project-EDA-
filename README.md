@@ -8,8 +8,8 @@ The dataset used in this project comprises approximately 7 million records of ma
 The dataset used for this analysis is sourced from Kaggle. You can find the dataset here : https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633
 
 # Python Libraries Used
-Pandas
-Seaborn
+* Pandas
+* Seaborn
 
 # Project Details
 1. Data Cleaning: The initial step involves cleaning up the dataset to prepare it for analysis. This includes handling missing values, removing duplicates, and ensuring data consistency.
